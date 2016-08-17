@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-17T18:28:59.684Z'
+datePublished: '2016-08-17T18:28:59.689Z'
 sourcePath: _posts/2016-04-16-why-you-need-to-love-yourself-more.md
 inFeed: true
 isBasedOnUrl: >-
@@ -21,7 +21,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-17T18:28:55.777Z'
+dateModified: '2016-08-17T18:28:55.994Z'
 title: Why You Need to Love Yourself More
 app_links:
   - url: 'huffpostnews:///?editionID=us&entryID=9668778'
