@@ -12,3 +12,7 @@ color:
     - '#B8934C'
     - '#E9C976'
 name: Healistic Expectations
+navigation:
+  - name: Health & Wellness
+    url: 'http://www.healisticexpectations.com/'
+    type: external
