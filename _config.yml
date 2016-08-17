@@ -16,5 +16,8 @@ navigation:
   - name: Health & Wellness
     url: 'http://www.healisticexpectations.com/'
     type: external
+  - name: Yoga & plant based cooking
+    url: 'http://www.babylonsister.com/'
+    type: external
 title: Artfully seducing fear towards loving transformation
 description: Excellence
