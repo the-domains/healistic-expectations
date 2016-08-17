@@ -1,4 +1,3 @@
-layout_spectrum: 0.8162549503613263
 typography_spectrum: 0.325732234865427
 color:
   brandStrength: 0.12511841976083815
@@ -11,8 +10,10 @@ color:
     - '#8B753C'
     - '#B8934C'
     - '#E9C976'
+layout_spectrum: 0.8162549503613263
 name: Healistic Expectations
 navigation:
   - name: Health & Wellness
     url: 'http://www.healisticexpectations.com/'
     type: external
+title: Artfully seducing fear towards loving transformation
