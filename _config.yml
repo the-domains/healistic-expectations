@@ -1,18 +1,18 @@
-typography_spectrum: 0.85031345509924
+typography_spectrum: 0.4513045495841652
 content_rating:
   adult: true
 color:
-  brandStrength: 0.25402648583985865
-  lightness: 0.08943968825042248
-  saturation: 0.5245748022571206
-  rhythmicContrast: 0.961313450243324
+  brandStrength: 0.00841528782621026
+  lightness: 0.7130732550285757
+  saturation: 0.44655437977053225
+  rhythmicContrast: 0.46494036028161645
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-layout_spectrum: 0.5149171683005989
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.4341813682112843
 name: Healistic Expectations
 navigation:
   - name: Health & Wellness
@@ -22,4 +22,4 @@ navigation:
     url: 'http://www.babylonsister.com/'
     type: external
 title: Artfully seducing fear towards loving transformation
-description: Healistic Expectations
+description: Artfully seducing fear towards loving transformation
