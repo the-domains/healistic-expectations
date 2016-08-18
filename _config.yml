@@ -1,17 +1,17 @@
-typography_spectrum: 0.3999354434199631
+typography_spectrum: 0.4513045495841652
 content_rating:
   adult: true
 color:
-  brandStrength: 0.9089383068494499
-  lightness: 0.21794071374461055
-  saturation: 0.4562996169552207
-  rhythmicContrast: 0.1278338802512735
+  brandStrength: 0.00841528782621026
+  lightness: 0.7130732550285757
+  saturation: 0.44655437977053225
+  rhythmicContrast: 0.46494036028161645
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 layout_spectrum: 0.4341813682112843
 name: Healistic Expectations
 navigation:
