@@ -1,18 +1,18 @@
-typography_spectrum: 0.46596617670729756
+typography_spectrum: 0.3999354434199631
 content_rating:
   adult: true
 color:
-  brandStrength: 0.406711756484583
-  lightness: 0.06916967313736677
-  saturation: 0.2125821835361421
-  rhythmicContrast: 0.6595758271869272
+  brandStrength: 0.9089383068494499
+  lightness: 0.21794071374461055
+  saturation: 0.4562996169552207
+  rhythmicContrast: 0.1278338802512735
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-layout_spectrum: 0.6922106412239373
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+layout_spectrum: 0.4341813682112843
 name: Healistic Expectations
 navigation:
   - name: Health & Wellness
