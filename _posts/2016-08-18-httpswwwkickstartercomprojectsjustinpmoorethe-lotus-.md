@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-18T08:51:57.530Z'
+datePublished: '2016-08-18T08:52:02.903Z'
 sourcePath: _posts/2016-08-18-httpswwwkickstartercomprojectsjustinpmoorethe-lotus-.md
 author: []
 via: {}
-dateModified: '2016-08-18T08:51:54.062Z'
+dateModified: '2016-08-18T08:52:02.223Z'
 title: ''
 publisher: {}
 description: >-
