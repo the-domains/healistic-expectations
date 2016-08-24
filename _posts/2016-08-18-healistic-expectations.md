@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-24T07:53:47.513Z'
+datePublished: '2016-08-24T08:04:10.088Z'
 sourcePath: _posts/2016-08-18-healistic-expectations.md
 isBasedOnUrl: 'http://www.healisticexpectations.com/'
 author: []
 via: {}
-dateModified: '2016-08-24T07:53:46.969Z'
+dateModified: '2016-08-24T08:04:00.066Z'
 title: Healistic Expectations
 id: 433276cf-60c6-4ffb-a15b-5bac4c0109a7
 publisher: {}
