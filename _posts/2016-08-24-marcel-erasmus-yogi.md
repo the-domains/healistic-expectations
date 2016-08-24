@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-24T07:43:10.347Z'
+datePublished: '2016-08-24T07:55:55.441Z'
 sourcePath: _posts/2016-08-24-marcel-erasmus-yogi.md
-isBasedOnUrl: ''
+isBasedOnUrl: >-
+  https://sitstandbalance.wordpress.com/2016/08/19/coming-into-the-pose/comment-page-1/#comment-4
 author: []
 via: {}
-dateModified: '2016-08-24T07:43:09.804Z'
+dateModified: '2016-08-24T07:55:54.859Z'
 title: 'Marcel Erasmus: Yogi'
 publisher: {}
 description: Our friend Marcel explains the importance of mind when practicing asana
