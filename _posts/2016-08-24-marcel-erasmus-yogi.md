@@ -1,13 +1,14 @@
 ---
-description: Our friend Marcel explains the importance of mind when practicing asana
-dateModified: '2016-08-24T07:38:46.847Z'
-datePublished: '2016-08-24T07:39:41.066Z'
-title: 'Marcel Erasmus: Yogi'
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-24T07:43:10.347Z'
 sourcePath: _posts/2016-08-24-marcel-erasmus-yogi.md
+isBasedOnUrl: ''
+author: []
+via: {}
+dateModified: '2016-08-24T07:43:09.804Z'
+title: 'Marcel Erasmus: Yogi'
+publisher: {}
+description: Our friend Marcel explains the importance of mind when practicing asana
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
